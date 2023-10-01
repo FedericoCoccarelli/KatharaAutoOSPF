@@ -3,7 +3,7 @@ Simple c# program to setup OSPF in kathara. It is useful for Netwrok Infrastruct
 
 ## Installation
 
-Use the .exe file or run the source code. 
+Use the .exe file inside the zip or run the source code. 
 The .exe file is so big because it include all the modules needed to run it, so there is no need to install or download anything other than the .exe file.<br><br>
 
 ## Usage
