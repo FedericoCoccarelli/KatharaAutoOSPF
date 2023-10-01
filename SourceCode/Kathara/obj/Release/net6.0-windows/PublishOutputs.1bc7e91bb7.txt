@@ -1,0 +1,5 @@
+C:\Users\Corsair\Desktop\test\Kathara.exe
+C:\Users\Corsair\Desktop\test\Kathara.dll
+C:\Users\Corsair\Desktop\test\Kathara.deps.json
+C:\Users\Corsair\Desktop\test\Kathara.runtimeconfig.json
+C:\Users\Corsair\Desktop\test\Kathara.pdb

@@ -1,0 +1,7 @@
+C:\Users\Corsair\Desktop\test\Kathara.pdb
+C:\Users\Corsair\Desktop\test\D3DCompiler_47_cor3.dll
+C:\Users\Corsair\Desktop\test\PenImc_cor3.dll
+C:\Users\Corsair\Desktop\test\PresentationNative_cor3.dll
+C:\Users\Corsair\Desktop\test\vcruntime140_cor3.dll
+C:\Users\Corsair\Desktop\test\wpfgfx_cor3.dll
+C:\Users\Corsair\Desktop\test\Kathara.exe

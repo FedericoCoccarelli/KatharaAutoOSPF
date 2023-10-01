@@ -1,0 +1,5 @@
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Release\net6.0-windows\publish\portable\Kathara.exe
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Release\net6.0-windows\publish\portable\Kathara.dll
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Release\net6.0-windows\publish\portable\Kathara.deps.json
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Release\net6.0-windows\publish\portable\Kathara.runtimeconfig.json
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Release\net6.0-windows\publish\portable\Kathara.pdb

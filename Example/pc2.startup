@@ -1,0 +1,10 @@
+/etc/init.d/networking restart
+
+echo -e '\n\n\n' | ssh-keygen
+cp /root/.ssh/id_rsa.pub /shared
+
+mkdir -p /dev/net
+mknod /dev/net/tun c 10 200
+chmod 600 /dev/net/tun
+
+openvpn /root/client.conf

@@ -1,0 +1,17 @@
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Debug\net6.0-windows\Kathara.exe
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Debug\net6.0-windows\Kathara.deps.json
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Debug\net6.0-windows\Kathara.runtimeconfig.json
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Debug\net6.0-windows\Kathara.dll
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Debug\net6.0-windows\Kathara.pdb
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.csproj.AssemblyReference.cache
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.Form1.resources
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.csproj.GenerateResource.cache
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.AssemblyInfoInputs.cache
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.AssemblyInfo.cs
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.csproj.CoreCompileInputs.cache
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.dll
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\refint\Kathara.dll
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.pdb
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\Kathara.genruntimeconfig.cache
+C:\Users\Corsair\Desktop\Kathara\Kathara\obj\Debug\net6.0-windows\ref\Kathara.dll

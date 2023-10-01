@@ -1,0 +1,9 @@
+/etc/init.d/networking restart
+/etc/init.d/quagga restart
+
+iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+iptables -t nat -A POSTROUTING -o eth1 -j MASQUERADE
+iptables -t nat -A POSTROUTING -o eth2 -j MASQUERADE
+iptables -A FORWARD -i eth0 -m state --state NEW -j DROP
+iptables -A FORWARD -i eth1 -m state --state NEW -j DROP
+iptables -A FORWARD -i eth2 -m state --state NEW -j DROP

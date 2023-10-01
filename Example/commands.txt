@@ -1,0 +1,8 @@
+one r5:
+tcpdump -i eth0 -w shared/capture.pcap
+
+on s1:
+nc -l -p 8080
+
+on pc2:
+echo "test string" | ssh myuser@192.168.50.250 nc localhost 8080

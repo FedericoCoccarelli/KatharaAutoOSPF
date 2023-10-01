@@ -1,0 +1,2 @@
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Debug\net6.0-windows\win-x64\publish\Kathara.pdb
+C:\Users\Corsair\Desktop\Kathara\Kathara\bin\Debug\net6.0-windows\win-x64\publish\Kathara.exe
